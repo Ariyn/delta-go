@@ -1,4 +1,4 @@
-module github.com/csimplestring/delta-go
+module github.com/Ariyn/delta-go
 
 go 1.19
 
